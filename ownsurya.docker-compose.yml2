@@ -1,3 +1,5 @@
+version: '3.1'
+
 services:
   javaapp:
     image: suryashankar598/suryajava:latest # This will be ignored if we deploy in docker swarm
